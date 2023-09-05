@@ -5,4 +5,5 @@ public class CoffeeDto {
 	private String cafemocha;
 	private String americanod;
 	private String latte;
+
 }
